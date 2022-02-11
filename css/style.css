@@ -150,7 +150,6 @@ main {
 
 .main-tables-container {
     display: flex;
-    height: 380px;
     margin-left: 10px;
     margin-right: 10px;
     overflow-x: scroll;
